@@ -1,0 +1,11 @@
+{
+  "url": "https://quelltext.ocloud.de/index.php/apps/calendar/p/CizZqR9nfaLfpR3P",
+  "title": "PTFA Talley Calendar",
+  "starting_hour": "7",
+  "skin": "dhtmlxscheduler_flat.css",
+  "tabs": [
+    "month",
+    "week",
+    "agenda"
+  ]
+}
